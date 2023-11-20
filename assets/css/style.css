@@ -9,6 +9,29 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+a{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+p{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 18px;
+  font-weight: 100;
+
+}
+
+
+.social{
+  color:#040b14;
+  background-color: none;
+}
+.social:hover{
+  color:white;
+  background-color: black;
+}
+
+
 body {
   font-family: "Open Sans", sans-serif;
   color: #272829;
